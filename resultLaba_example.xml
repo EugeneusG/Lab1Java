@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<resultLaba1>
+	<exhausting>
+		<material>
+			<name>Dveri</name>
+			<gost>42434</gost>
+			<rashod>6</rashod>
+			<kolvo>11</kolvo>
+		</material>
+	</exhausting>
+	<leastused>
+		<material>
+			<name>Dveri</name>
+			<gost>42434</gost>
+			<rashod>6</rashod>
+			<kolvo>11</kolvo>
+		</material>
+		<material>
+			<name>Dveri</name>
+			<gost>42434</gost>
+			<rashod>6</rashod>
+			<kolvo>11</kolvo>
+		</material>
+	</leastused>
+</resultLaba1>
